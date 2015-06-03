@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>package_manager</name>
-  <url>http://maven.apache.org</url>
+  <url>http://mmc.codes</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
